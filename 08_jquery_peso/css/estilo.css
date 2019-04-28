@@ -1,0 +1,47 @@
+body{
+	width: 80%;
+	margin: 0 auto; /*centrado de la pagina*/
+	font-family: "helvetica";
+	padding-left: 50px; /*margen interno izquierdo*/
+	padding-right: 50px; /*margen interno derecho*/
+	background: url("../img/imagen1.jpg");
+	background-size: cover;
+}
+h1{
+	text-align: center;
+	color: white;
+	font-family: "Small Fonts";
+}
+p{
+
+	text-align: center;
+}
+h2{
+	text-align: center;
+	color: silver;
+}
+img{
+	border-radius: 40px 40px 40px 40px;
+}
+.tarjeta {
+	border: solid 1px pink;
+	text-align: center;
+	border-radius: 15px;
+	box-shadow: 25px 0px 10px 5px #541183;
+}
+.contenedor{
+	display: flex;
+	justify-content: space-between;;
+	margin-bottom: 50px;s    /*margin abajo  */
+}	
+.card p{
+	text-align: center;
+}
+h4{
+	font-family: Castellar;
+	color: white;
+}
+p{
+color: white;
+font-family: Showcard Gothic;
+}

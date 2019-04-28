@@ -1,0 +1,17 @@
+body{
+	background: silver
+}
+#p1{
+	font-family: helvetica;
+}
+
+.p2{
+	font-family: calibri;
+}
+h1{
+	color: red;
+	font-family: 'Dancing Script'
+}
+div{
+	text-align: center;
+}
